@@ -1,2 +1,2 @@
-# Tai_Lieu_IT_UTC
-Tài liệu ngành CNTT của sinh viên UTC K64
+# UTC
+Tài liệu cơ bản của ngành CNTT Khóa 64
